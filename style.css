@@ -16,9 +16,9 @@ h1 {
 }
 
 section {
-    text-align: center; /* Выравниваем текст по центру */
-    max-width: 600px; /* Ограничиваем ширину для удобства чтения */
-    margin: 0 auto; /* Автоматические отступы слева/справа (центрирует блок) */
+    text-align: center; 
+    max-width: 600px; 
+    margin: 0 auto; 
     padding: 20px;
 }
 
